@@ -1,20 +1,14 @@
 [
     {
         "id": 1,
-        "title": "New Message",
-        "message": "You have a new message from John.",
-        "imageUrl": "https://www.adobe.com/creativecloud/file-types/image/raster/media_190563911f4a579a9d6f1f9d5b499b44d6413088b.jpeg?width=1200&format=pjpg&optimize=medium"
+        "title": "About AI 2025",
+        "message": "AI Value Chain หมายถึงการแบ่งส่วนของระบบนิเวศ AI ออกเป็น 3 \nกลุ่มหลัก ได้แก่ ต้นน้ำ (Upstream) กลางน้ำ (Midstream) ปลาย \nน้ำ (Downstream) ซึ่งแต่ละส่วนมีบทบาทและความสำคัญที่แตก",
+        "imageUrl": "https://scontent.finnomena.com/sites/1/2025/01/070f63a6-03_theme-ai-2025-banner-1110x581.jpg"
     },
     {
         "id": 2,
-        "title": "Reminder",
-        "message": "Don't forget the meeting at 3 PM.",
-        "imageUrl": "https://www.adobe.com/creativecloud/file-types/image/raster/media_190563911f4a579a9d6f1f9d5b499b44d6413088b.jpeg?width=1200&format=pjpg&optimize=medium"
-    },
-    {
-        "id": 3,
-        "title": "Promotion",
-        "message": "Get 20% off on your next purchase!",
-        "imageUrl": "https://www.adobe.com/creativecloud/file-types/image/raster/media_190563911f4a579a9d6f1f9d5b499b44d6413088b.jpeg?width=1200&format=pjpg&optimize=medium"
+        "title": "2025: the year companies prepare to disrupt how work gets done",
+        "message": "The world of work has changed enormously in the last two decades. Mobile devices, e-commerce, and social media have all impacted how and where we work. But what’s new now is how AI is starting to drive the next wave of change. It’s creating demand for new jobs and skills, transforming roles and careers, and spurring productivity and innovation.",
+        "imageUrl": "https://assets.weforum.org/article/image/large_aA0EMbAYec30P5XzmTajfYexKEM14i-he8MC7wrdlWU.jpg"
     }
 ]
