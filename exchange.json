@@ -1,4 +1,20 @@
 {
 "thRate": 780,
-  "mmRate": 755
+  "mmRate": 755,
+
+  "THB1": "THB1",
+  "MMK1": "MMK1",
+  
+  "THB2": "THB2",
+  "MMK2": "MMK2",
+  
+  "THB3": "THB3",
+  "MMK3": "MMK3",
+  
+  "THB4": "THB4",
+  "MMK4": "MMK4",
+  
+  "THB5": "THB5",
+  "MMK5": "MMK5"
+
 }
