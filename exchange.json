@@ -2,19 +2,19 @@
 "thRate": 780,
   "mmRate": 755,
 
-  "THB1": "THB1",
-  "MMK1": "MMK1",
+  "THB1": "48 THB",
+  "MMK1": "5000 MMK",
   
-  "THB2": "THB2",
-  "MMK2": "MMK2",
+  "THB2": "89 THB",
+  "MMK2": "10000 MMK",
   
-  "THB3": "THB3",
-  "MMK3": "MMK3",
+  "THB3": "130 THB",
+  "MMK3": "15000 MMK",
   
-  "THB4": "THB4",
-  "MMK4": "MMK4",
+  "THB4": "170 THB",
+  "MMK4": "20000 MMK",
   
-  "THB5": "THB5",
-  "MMK5": "MMK5"
+  "THB5": "200 THB",
+  "MMK5": "25000 MMK"
 
 }
