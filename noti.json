@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "title": "New Message",
+        "message": "You have a new message from John.",
+        "imageUrl": "https://www.adobe.com/creativecloud/file-types/image/raster/media_190563911f4a579a9d6f1f9d5b499b44d6413088b.jpeg?width=1200&format=pjpg&optimize=medium"
+    },
+    {
+        "id": 2,
+        "title": "Reminder",
+        "message": "Don't forget the meeting at 3 PM.",
+        "imageUrl": "https://www.adobe.com/creativecloud/file-types/image/raster/media_190563911f4a579a9d6f1f9d5b499b44d6413088b.jpeg?width=1200&format=pjpg&optimize=medium"
+    },
+    {
+        "id": 3,
+        "title": "Promotion",
+        "message": "Get 20% off on your next purchase!",
+        "imageUrl": "https://www.adobe.com/creativecloud/file-types/image/raster/media_190563911f4a579a9d6f1f9d5b499b44d6413088b.jpeg?width=1200&format=pjpg&optimize=medium"
+    }
+]
