@@ -17,8 +17,14 @@
   "THB5": "200 THB",
   "MMK5": "25000 MMK",
 
-  "versionCode": 2
+  "versionCode": 2,
+  "title": "Update Available",
+    "message": "A new version of the app is available. Please update to continue.",
+    "link": "https://play.google.com/store/apps/details?id=com.svpnmm.mmdev"
+
+
+
+}
 
   
 
-}
